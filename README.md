@@ -173,4 +173,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 **Note**: This project uses the Twitter API v2. For production use, consider upgrading to a premium API access level for increased rate limits and historical data access.
+Second Project: stock_sentiment.ipynb 
 
