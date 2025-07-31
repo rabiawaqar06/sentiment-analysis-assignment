@@ -51,14 +51,21 @@ A sophisticated real-time sentiment analysis tool that analyzes public opinion a
 
 ## 📊 Example Outputs
 ```
-Celebrity: Taylor Swift
-Time Period: Last 24 hours
-Tweets Analyzed: 100
+Celebrity: Imran Khan
+Time Period: Last 3 days
+Tweets Analyzed: 10
 Results:
-- Positive: 45% (High confidence: 0.85)
-- Neutral: 30% (Moderate confidence: 0.65)
-- Negative: 25% (High confidence: 0.78)
+- Positive: 50.0% (3 tweets, High confidence: 0.76-0.97)
+- Neutral: 30.0% (3 tweets, High confidence: 0.77-1.00)
+- Negative: 20.0% (2 tweets)
+
 ```
+The analysis demonstrates the tool's ability to:
+- Filter and analyze opinion-based tweets
+- Provide confidence scores for each sentiment
+- Calculate sentiment distribution
+- Maintain high average confidence (0.86)
+- Identify the most common sentiment (positive)
 
 ## ⚙️ Technical Features
 
